@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[
+# ${1:Online Supporting Material for Chapter 4}
 # Online Supporting Material for Chapter 4
 Bacterial genome sequencing and in silico prediction of
 Microbial interactions among partners of the tripartite model system
