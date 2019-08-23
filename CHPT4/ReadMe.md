@@ -1,7 +1,5 @@
-<snippet>
-  <content><![CDATA[
-## Online Supporting Material for Chapter 4
-Frederik De Boever
+# Online Supporting Material for Chapter 4
+>Frederik De Boever
 
 ## Tables
 
@@ -36,8 +34,3 @@ Petersen, T. N., Brunak, S., von Heijne, G., and Nielsen, H. (2011). SignalP 4.0
 Takami, H., Taniguchi, T., Arai, W., Takemoto, K., Moriya, Y., and Goto, S. (2016). An automated systemfor evaluation of the potential functionome: MAPLE version 2.1.0. DNA Res. 23, 467–475. doi:10.1093/dnares/dsw030.
 
 Yu, N. Y., Wagner, J. R., Laird, M. R., Melli, G., Rey, S., Lo, R., et al. (2010). PSORTb 3.0: Improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities for all prokaryotes. Bioinformatics 26, 1608–1615. doi:10.1093/bioinformatics/btq249.
-
-
-</content>
-  <tabTrigger></tabTrigger>
-</snippet>
