@@ -1,5 +1,8 @@
 # Online Supporting Material for Chapter 4
->Frederik De Boever
+>Frederik De Boever, 2019
+
+
+<p style="text-align: center">Bacterial genome sequencing and in silico prediction of Microbial interactions among partners of the tripartite model system</p>
 
 ## Tables
 
