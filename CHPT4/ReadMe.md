@@ -22,12 +22,12 @@ __Table 4.4__ – CAZY and cellular localisation for FDB33 and FDB36. List of CA
 ## Data files
 
 Genome assemblies in fasta format for genomes FDB33 and FDB36
-•	Marinobacter_sp_FDB36.fna
-•	Alteromonas_sp_FDB33.fna
+*	Marinobacter_sp_FDB36.fna
+*	Alteromonas_sp_FDB33.fna
 
 Genome annotation files in fasta format for FDB33 and FDB36
-•	Marinobacter_sp_FDB36.faa
-•	Alteromonas_sp_FDB33.faa
+*	Marinobacter_sp_FDB36.faa
+*	Alteromonas_sp_FDB33.faa
 
 ## References
 
