@@ -5,12 +5,13 @@
 Bacterial genome sequencing and in silico prediction of
 Microbial interactions among partners of the tripartite model system
 
+## Online Supporting Material for Chapter 4
+Bacterial genome sequencing and in silico prediction of
+<p align="center">
+Microbial interactions among partners of the tripartite model system
 Frederik De Boever
 2019
-
-Bacterial genome sequencing and in silico prediction of
-Microbial interactions among partners of the tripartite model system
-
+</p>
 ## Tables
 
 __Table 4.1__ - Genome statistics for genomes used in Chapter 4, as derived from CheckM (Parks et al., 2015). Excel .xlsx file is contains three spreadsheets. The first shows genome characteristics of Marinobacter sp. FDB33 and Alteromonas sp. FDB36, sequenced as part of this thesis. The second and third spreadsheets contain a wider set of genomes that were used in the analysis, for the Marinobacter and Alteromonas genera, respectively.
