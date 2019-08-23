@@ -3,7 +3,7 @@
 
 ## Tables
 
-__Table 4.1__ - Genome statistics for genomes used in Chapter 4, as derived from CheckM (Parks et al., 2015). Excel .xlsx file is contains three spreadsheets. The first shows genome characteristics of Marinobacter sp. FDB33 and Alteromonas sp. FDB36, sequenced as part of this thesis. The second and third spreadsheets contain a wider set of genomes that were used in the analysis, for the Marinobacter and Alteromonas genera, respectively.
+__Table 4.1__ - Genome statistics for genomes used in Chapter 4, as derived from CheckM (Parks et al., 2015). Excel .xlsx file is contains three spreadsheets. The first shows genome characteristics of _Marinobacter_ sp. FDB33 and _Alteromonas_ sp. FDB36, sequenced as part of this thesis. The second and third spreadsheets contain a wider set of genomes that were used in the analysis, for the _Marinobacter_ and _Alteromonas_ genera, respectively.
 
 __Table 4.2__ – MAPLE module completion ratio (MCR). Complete list of KEGG module completion ratio’s, represented as the percentage of a module component filled with KEGG Orhology (KO) assigned genes was calculated for FDB33 and FDB36 using KAAS (Moriya et al., 2007) and MAPLE (Takami et al., 2016).
  
