@@ -7,7 +7,7 @@ Microbial interactions among partners of the tripartite model system
 
 ## Online Supporting Material for Chapter 4
 Bacterial genome sequencing and in silico prediction of
-<p align="center">
+<p style="text-align: center">
 Microbial interactions among partners of the tripartite model system
 Frederik De Boever
 2019
