@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
-# Online Supporting Material for Chapter 4
+## Online Supporting Material for Chapter 4
+Frederik De Boever
 
 ## Tables
 
