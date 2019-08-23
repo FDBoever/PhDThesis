@@ -8,6 +8,8 @@ Microbial interactions among partners of the tripartite model system
 Frederik De Boever
 2019
 
+Bacterial genome sequencing and in silico prediction of
+Microbial interactions among partners of the tripartite model system
 
 ## Tables
 
@@ -44,6 +46,6 @@ Takami, H., Taniguchi, T., Arai, W., Takemoto, K., Moriya, Y., and Goto, S. (201
 Yu, N. Y., Wagner, J. R., Laird, M. R., Melli, G., Rey, S., Lo, R., et al. (2010). PSORTb 3.0: Improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities for all prokaryotes. Bioinformatics 26, 1608–1615. doi:10.1093/bioinformatics/btq249.
 
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
+  <tabTrigger></tabTrigger>
 </snippet>
